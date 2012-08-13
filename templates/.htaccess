@@ -1,0 +1,5 @@
+AuthName "Restricted Area" 
+AuthType Basic 
+AuthUserFile /home5/creatjd3/public_html/templates/.htpasswd 
+AuthGroupFile /dev/null 
+require valid-user
